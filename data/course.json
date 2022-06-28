@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Nuclear"
+    ],
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "e644ca69-12cf-42db-a499-5e3970aed2b7",
+      "0d108e00-431e-8456-0108-d54819868719"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "nuclear-weapons-history-and-future-prospects"
+  },
+  "course_title": "Nuclear Weapons \u2013 History and Future Prospects",
+  "course_description": "This course designed was to educate those taking the subject about how nuclear weapons came into being, the physics of these weapons, how they are structured, how they have evolved over the past several decades, efforts to control them and limit the threats that they represent, and what the possibilities for the future are. Many people in our country and other countries are not aware of what an existential threat nuclear weapons represent, and this lack of awareness is an important part of the overall threat. We hoped to address this issue for the students who took the subject and for those they influence.",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.S271",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "nuclear-weapons-history-and-future-prospects"
+  },
+  "learning_resource_types": [],
+  "site_uid": "af76a0af-7f91-4298-9465-5536091cc669"
+}
